@@ -4,6 +4,6 @@ print("Merge test")
 
 print("added another line. Also modified second line.")
 
-print("******************* added a third line")
+print("This line will create a conflict.")
 
 print_more()
